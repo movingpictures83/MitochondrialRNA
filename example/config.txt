@@ -1,0 +1,2 @@
+Prefix plugins/MitochondrialRNA/example/
+Plugin MitochondrialRNA inputfile /biorg/data/RNA/filtered_gene_bc_matrices/hg19 outputfile mitochondria
